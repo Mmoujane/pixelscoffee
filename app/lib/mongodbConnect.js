@@ -1,6 +1,6 @@
 import { MongoClient, ServerApiVersion } from 'mongodb';
 
-const uri = "mongodb+srv://moujanemarwane:BHtAPaxqif28Snpa@pixelscoffee.7sswg.mongodb.net/?retryWrites=true&w=majority&appName=PixelsCoffee";
+const uri = "";
 const options = {
   serverApi: {
     version: ServerApiVersion.v1,
